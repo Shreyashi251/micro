@@ -23,11 +23,9 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>136470</CustomerID>
+      <CustomerID>1232222</CustomerID>
     </Table>
-    <Table>
-      <CustomerID>136470</CustomerID>
-    </Table>
+    
   </DataSet>
 </Results>'
                     
