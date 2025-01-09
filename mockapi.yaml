@@ -51,11 +51,11 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>1232222</CustomerID>
+      <CustomerID>766772</CustomerID>
       <CustomerStatus>Active</CustomerStatus>
       <CustomerType>Agriculture</CustomerType>
-      <EmailAddress>shreyashi@mailinator.com</EmailAddress>
-      <Address1>136470 addresss</Address1>
+      <EmailAddress>shreyashi25@mailinator.com</EmailAddress>
+      <Address1>shreyashi addresss</Address1>
       <Address2></Address2>
       <Address3></Address3>
       <City>bengaluru</City>
